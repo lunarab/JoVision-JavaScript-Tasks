@@ -1,0 +1,19 @@
+body {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 50vh;
+}
+button
+{
+  padding: 10px;
+  background-color:aliceblue;
+  color: black;
+  font-weight: 300;
+  margin: 20px;
+}
+p{
+  color: darkred;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
