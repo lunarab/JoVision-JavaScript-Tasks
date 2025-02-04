@@ -1,6 +1,6 @@
 const record = {
-   name : "the-name-you-enetered",
-   age : "the-age-you-enetered",
+   name : "the-name-you-entered",
+   age : "the-age-you-entered",
    timeStamp :  "the-date-and-time-of-the-button-press"
 };
 function submit()
